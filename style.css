@@ -5,7 +5,7 @@
 font-family:segoe 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 body{
-    background: #00bfff;
+    background: #1f1f1f;
     color :#fff;
     display :flex;
 min-height: 100vh;
@@ -51,7 +51,7 @@ h1{
     gap: 1.5rem;
 }
 .playlist-card{
-    background:#1e1e1e;
+    background:#5BC0BE;
     padding: 1rem;
     border-radius: 12px;
     position: relative;
